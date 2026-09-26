@@ -16,7 +16,7 @@ const EmptyState = () => {
         rounded-2xl sm:rounded-3xl
         text-center
         flex flex-col items-center justify-center
-        min-h-[260px] sm:min-h-[300px]
+       
       "
     >
       <h2
